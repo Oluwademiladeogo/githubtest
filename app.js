@@ -1,2 +1,4 @@
-const express = require("express")
-const app = express()
+const expres = require("express")
+const app = expres()
+
+module.exports = app
